@@ -2,7 +2,7 @@
 
 At Stockholm Precision Tools, we are dedicated to delivering cutting-edge solutions in the fields of oil & gas, mining, and civil engineering. Our GitHub organization serves as a central hub for our development efforts, hosting repositories that house our software projects.
 
-By leveraging the power of GitHub, we ensure seamless collaboration, version control, and efficient project management within our development teams. Our repositories are synchronized with Jira, allowing us to seamlessly track and manage tasks, issues, and feature requests.
+By leveraging the power of GitHub, we ensure seamless collaboration, version control, and efficient project management within our development teams. Our repositories are synchronized with Jira Software, allowing us to seamlessly track and manage tasks, issues, and feature requests.
 
 Within our organization, you will find a wealth of repositories, each dedicated to specific projects, libraries, or tools. These repositories serve as a centralized knowledge base where our talented developers collaborate, share code, and contribute to the advancement of our software solutions.
 
